@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+img{
+  border: 5px solid red;
+  width: 35rem;
+  height: 38rem;
+  margin-left: 15rem;
+}
+p{
+  text-align: center;
+  font-size: 36px;
+  color: royalblue;
+}
+.breed-name{
+  margin-left: 36rem;
+  
+}
+button{
+  margin-left: 1rem;
+}
+.soww{
+  text-align: center;
+}
